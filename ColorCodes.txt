@@ -1,0 +1,4 @@
+--colorcodes.txt--
+eg:
+background-color: #1df632;
+font-color: #ade734;
