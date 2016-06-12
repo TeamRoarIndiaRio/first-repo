@@ -1,0 +1,35 @@
+/**{
+	margin: 0;
+	padding: 0;
+}*/
+.Olympics-Wrapper{
+	background-color: grey;
+	height: 1024px;
+}
+.Olympics-Content{
+	width: 	auto;	
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.player-details img{
+	width: 	568px;
+	height:300px;
+}
+.player-overlay ul{
+	list-style: none;
+	overflow: auto;
+	padding: 3% 0 3% 3%;
+}
+.player-overlay ul li{
+	display: block;
+	overflow: auto;
+}
+.player-overlay div.left-details{
+	float: left;
+	width: 35%;
+}
+.player-overlay div.right-details{
+	float: left;
+	width: 60%;
+}
