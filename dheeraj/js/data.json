@@ -1,0 +1,207 @@
+[
+	{
+		"event": "Shooting",
+		"name": "Abhinav Bindra",
+		"dob": "28 September 1982",
+		"place": "Dehradun, Uttarakhand",
+		"Category": ["10 m air rifle"],
+		"image": "image/abhinav-bindra.jpg",
+		"Achievements": ["Multiple medal winner in all major events around world and Olympic bronze medal winner in 2012, London",
+						"Career Titles – 12",
+						"Complete medal tally in Wikipedia"
+						],
+		"wikiLink": "https://en.wikipedia.org/wiki/Abhinav_Bindra",
+		"stories" : ["www.biography.co.in/biography-abhinav-bindra.html",
+					 "https://twitter.com/Abhinav_Bindra?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+					 "https://www.facebook.com/abhinav.bindra.520",
+					 "http://www.abhinavbindra.com/foundation.aspx"
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Gagan Narang",
+		"dob": "6 May 1983",
+		"place": "Born - Chennai, Tamil Nadu, Residence - Hyderabad",
+		"Category": ["50 m rifle prone, 50 m rifle 3 positions"],
+		"image": "image/gagan-narang.jpg",
+		"Achievements": ["Multiple medal winner in all major events around world and Olympic bronze medal winner in 2012, London",
+						"Career Titles – 16",
+						"Complete medal tally in Wikipedia"
+						],
+		"wikiLink": "https://en.wikipedia.org/wiki/Gagan_Narang",
+		"stories" : ["https://www.facebook.com/gnspf",
+					 "http://indianexpress.com/tag/gagan-narang/",
+					 "http://www.sportsvale.com/resources/3627-Gagan-Narang-Biography-Career-Profile-Ace-Rifle-Shooter-at-London-Olympics.aspx"
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Chain Singh",
+		"dob": "5 April 1989",
+		"place": "Doda district, Jammu and Kashmir",
+		"Category": ["50 m rifle prone, 50 m rifle 3 positions"],
+		"image": "image/chain-singh.jpg",
+		"Achievements": ["South Asian Games 2016, Guwahati (10 m air rifle individual) - Gold",
+						"South Asian Games 2016, Guwahati (50 m rifle prone individual) - Gold",
+						"South Asian Games 2016, Guwahati (50 m rifle three positions individual) - Gold",
+						"South Asian Games 2016, Guwahati (10 m air rifle team) - Gold",
+						"South Asian Games 2016, Guwahati (50 m rifle prone team) - Gold",
+						"South Asian Games 2016, Guwahati (50 m rifle three positions team) - Gold",
+						"ASIAN GAMES 2014, Incheon (men's 50m rifle 3 positions individual)"
+						],
+		"wikiLink": "https://en.wikipedia.org/wiki/Chain_Singh",
+		"stories" : ["http://www.indianshooting.com/fnews/gold-no-6-for-chain-singh-at-south-asian-games/",
+					 "https://www.facebook.com/chain.singh111?fref=ts",
+					 "http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM0504198901"
+					 
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Gurpreet Singh",
+		"dob": "1987",
+		"place": "Amritsar, Punjab",
+		"Category": ["25 m rapid fire pistol, 10 m air pistol"],
+		"image": "image/gurpreet-singh.jpg",
+		"Achievements": ["Commonwealth Games 2010, Guwahati (Men's 25m Rapid Fire Pistol (Pairs)) - Gold"
+						],
+		"wikiLink": "https://en.wikipedia.org/wiki/Gurpreet_Singh_(sport_shooter)",
+		"stories" : ["http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM1912198701",
+					 "http://www.sportskeeda.com/shooting/prakash-nanjappa-gurpreet-singh-two-shooter-make-real-difference-rio-2016",
+					 "http://indianexpress.com/article/sports/sport-others/gurpreet-singh-becomes-fifth-indian-shooter-to-qualify-for-2016-rio-olympics/"
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Jitu Rai",
+		"dob": "26 August 1987",
+		"place": "Sankhuwasabha, Nepal",
+		"Category": ["10 m air pistol, 50 m pistol"],
+		"image": "image/jitu-rai.jpg",
+		"Achievements": ["ISSF World Cup 2015  (10 m air pistol) – Bronze",
+						"ISSF World Cup 2014 (10 m air pistol) - Gold",
+						"Commonwealth Games 2014 (50 m pistol) - Gold",
+						"Asian Games 2014 (50 m pistol) – Gold",
+						"ISSF World Cup 2014 (10 m air pistol) – Silver",
+						"ISSF World Cup 2014 (50 m pistol) – Silver",
+						"Asian Games 2014 (10 m air pistol team) – Bronze"
+						],
+		"wikiLink": "https://en.wikipedia.org/wiki/Jitu_Rai",
+		"stories" : ["http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM2608198701",
+					 "https://www.facebook.com/jitu.rai.90857",
+					 "http://indianexpress.com/article/sports/sport-others/jitu-rai-gold-issf-world-cup-shooting-olympics/"
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Prakash Nanjappa",
+		"dob": "29 February 1976",
+		"place": "Bangalore, India",
+		"Category": ["50 m pistol"],
+		"image": "image/prakash-nanjappa.jpg",
+		"Achievements": ["Commonwealth Games 2014 (10 m air pistol) - Silver",
+						"Asian Games 2014 (10 m air pistol team) – Bronze",
+						"ISSF World Cup 2013 (10 m air pistol) - Bronze"
+						],
+		"wikiLink": "https://en.wikipedia.org/wiki/Prakash_Nanjappa",
+		"stories" : ["https://www.facebook.com/Prakash-Nanjappa-604558993026124/?fref=ts",
+					 "http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM2902197601",
+					 "http://www.news18.com/news/sports/i-will-perform-to-my-best-in-rio-says-shooter-prakash-nanjappa-1112773.html",
+					 "http://www.livemint.com/Leisure/h9fMPrsBibb6Tdevcc5hkJ/Prakash-Nanjappa-mental-gymnastics.html"
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Manavjit Singh Sandhu",
+		"dob": "3 November 1976",
+		"place": "Ratta Khera, Firozpur",
+		"Category": ["Men's Trap"],
+		"image": "image/manavjit-singh-sandhu.jpg",
+		"Achievements": ["Multiple medal winner in all major events around world including Common Wealth Games",
+						"Complete medal tally in Wikipedia"
+						],
+		"wikiLink": "https://en.wikipedia.org/wiki/Manavjit_Singh_Sandhu",
+		"stories" : ["http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM0311197601",
+					 "http://www.sports-reference.com/olympics/athletes/si/manavjit-singh-sandhu-1.html",
+					 "https://www.youtube.com/watch?v=QtBcKaTnOuk"
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Apurvi Singh Chandela",
+		"dob": "4 January 1993",
+		"place": "Jaipur, Rajasthan",
+		"Category": ["10 m air rifle"],
+		"image": "image/apurvi-chandela.jpg",
+		"Achievements": ["Commonwealth Games 2014 (10 m air rifle) - Gold"
+						],
+		"wikiLink": "https://en.wikipedia.org/wiki/Apurvi_Chandela",
+		"stories" : ["https://www.facebook.com/apurvichandelatheshooter/",
+					 "http://timesofindia.indiatimes.com/sports/more-sports/shooting/Best-shooter-Apurvi-Chandela-wins-another-gold-in-Sweden/articleshow/50479999.cms",
+					 "http://www.india.com/top-n/apurvi-chandela-wins-gold-5-things-you-need-to-know-about-the-young-rifle-ace-103613/"
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Ayonika Paul",
+		"dob": "23 September 1992",
+		"place": "Mumbai, Maharashtra",
+		"Category": ["10 m air rifle"],
+		"image": "image/ayonika-paul.jpg",
+		"Achievements": ["Commonwealth Games 2014 (10 m air rifle) - Silver"
+						],
+		"wikiLink": "https://en.wikipedia.org/wiki/Ayonika_Paul",
+		"stories" : ["https://www.facebook.com/ayonika.paul",
+					 "http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDW2309199201",
+					 "http://www.femina.in/achievers/in-conversation-with-10m-air-rifle-indian-shooter-ayonika-paul-5120.html"
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Heena Sidhu",
+		"dob": "29 August 1989",
+		"place": "Ludhiana, Punjab",
+		"Category": ["10 m air pistol, 25 m pistol"],
+		"image": "image/heena-sidhu.jpg",
+		"Achievements": ["Multiple medal winner in all major events around world including Common Wealth Games",
+						"Complete medal tally in Wikipedia"
+						],
+		"wikiLink": "https://en.wikipedia.org/wiki/Heena_Sidhu",
+		"stories" : ["https://twitter.com/heenasidhu10",
+					 "https://www.facebook.com/HeenaShootingOfficial",
+					 "http://www.firstpost.com/sports/with-gold-medal-in-asian-qualifiers-heena-sidhu-shoots-her-way-to-rio-olympics-2016-2600894.html"
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Kynan Chenai",
+		"dob": "",
+		"place": "",
+		"Category": ["Men’s Trap"],
+		"image": "image/kynan-chenai.jpg",
+		"Achievements": [""
+						],
+		"wikiLink": "",
+		"stories" : ["http://www.kynanchenai.in/profile.htm",
+					 "https://twitter.com/kynanchenai",
+					 "https://www.facebook.com/kynan.chenai",
+					 "http://indianexpress.com/article/sports/slim-and-trim-kynan-shoots-down-another-quota/"
+					]
+	},
+	{
+		"event": "Shooting",
+		"name": "Mairaj Ahmed Khan",
+		"dob": "1975",
+		"place": "Khurja, Uttarpradesh",
+		"Category": ["Skeet"],
+		"image": "image/mairaj-ahmed-khan.jpg",
+		"Achievements": ["Won multiple medals at various majors"
+						],
+		"wikiLink": "N/A",
+		"stories" : ["http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM0211197501",
+					 "http://indianexpress.com/article/sports/sport-others/mairaj-ahmed-khan-buries-15-years-of-pain-by-clinching-olympic-quota-in-skeet/",
+					 "http://www.sportstarlive.com/shooting/skeet-shooter-mairaj-ahmad-khan-better-late-than-never/article7774147.ece",
+					 "http://www.wikinewsindia.com/english-news/thehindu-news/sport-news/mairaj-determined-to-win-an-olympic-gold/"
+					]
+	}
+]
